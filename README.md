@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @libbieiscool
 - 👀 I’m interested in ... art, tech, textiles and printmaking! 
-- 🌱 I’m currently learning ... java ! I'm currently in a software dev program - I have so much to learn still!  
+- 🌱 I’m currently learning ... a bit of front end and back-end dev through a fullstack BrainStation Web Development course. I am really loving front-end work and so excited to learn more.
 
 <!---
 libbieiscool/libbieiscool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
