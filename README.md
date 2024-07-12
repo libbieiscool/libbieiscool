@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @libbieiscool
-- 👀 I’m interested in ... art, tech, textiles and printmaking! 
-- 🌱 I’m currently learning ... a bit of front end and back-end dev through a fullstack BrainStation Web Development course. I am really loving front-end work and so excited to learn more.
+My Name is Libbie Farrell and I am an Artist and coder experimenting with ways to incorporate my artistic and design based practice into interactive code based projects. I am a printmaker and textile artist outside my love for software engineering and a strong believer in learning new skills all the time.
+
+This github is primarily used for my personal and more strange projects. 
 
 <!---
 libbieiscool/libbieiscool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
